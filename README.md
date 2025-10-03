@@ -25,7 +25,7 @@
 - Bonus: use fuzzy matching and allow for spelling mistakes.
 
 ### 4. Track visitor counts (use AI assistant)
-- Add an API route that increments a view count every time a blog post is opened.
+- Keep track of how many times a blog post is loaded.
 - Add /analytics page that displays total number of visits.
 
 ### 5. Improve analytics algorithm (manual coding)
