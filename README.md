@@ -9,8 +9,8 @@
 
 ### 1. Explore the code
 - Explore and explain the most important parts of the code.
-- How are posts loaded into frontend? What other ways would there be? What are the differences?
 - Start the app and make sure it works.
+- How are posts loaded into frontend? What other ways would there be? What are the differences?
 - Remove existing blog posts and generate 20 new ones with AI about a topic you are interested in.
 
 ### 2. Implement search feature (use AI assistant)
