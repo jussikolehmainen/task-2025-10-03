@@ -2,7 +2,7 @@
 
 ## Intro
 - You have 1 hour to complete as much as possible.  
-- Fork the https://github.com/vercel/next.js/tree/canary/examples/blog-starter repo, clone it locally, and work on your fork.
+- Go to https://github.com/vercel/next.js/tree/canary/examples/blog-starter and follow the instructions there to install it locally.
 - Use AI assistant of your choice when instructed to do so.
 
 ## Tasks
